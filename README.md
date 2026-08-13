@@ -156,7 +156,7 @@ class ObaidullahHassan:
 <br>
 
 - **MSc Artificial Intelligence** — Lahore University of Management Sciences (LUMS) · 2025 – Present
-- **BSc Electrical Engineering** — Information Technology University of the Punjab · 2018 – 2022 · CGPA 3.60
+- **BSc Electrical Engineering** — Information Technology University of the Punjab · 2018 – 2022
 
 </details>
 
