@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Syed%20Obaidullah%20Hassan%20Chishti&fontAlign=50&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Sr.%20Machine%20Learning%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Computer%20Vision&descAlign=50&descAlignY=68&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Syed%20Obaidullah%20Hassan%20Chishti&fontAlign=50&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Sr.%20Machine%20Learning%20Engineer%20%C2%B7%20Co-Founder%20%40%20Klassifiers%20%C2%B7%20Co-Founder%20%40%20Contecify&descAlign=50&descAlignY=68&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=7C7CF8&center=true&vCenter=true&width=760&lines=Building+production+LLM+agents+with+LangGraph;RAG+pipelines+that+don't+hallucinate;NL%E2%86%92SQL+at+94%25+accuracy+on+medical+data;Vision+systems+%E2%80%94+face+recognition+%26+tracking;Healthcare+AI+%C2%B7+MS+AI+%40+LUMS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=7C7CF8&center=true&vCenter=true&width=760&lines=Co-Founder+%40+Klassifiers+%E2%80%94+AI-powered+analytics;Building+production+LLM+agents+with+LangGraph;RAG+pipelines+that+don't+hallucinate;NL%E2%86%92SQL+at+94%25+accuracy+on+medical+data;Vision+systems+%E2%80%94+face+recognition+%26+tracking;Co-Founder+%40+Contecify+%C2%B7+MS+AI+%40+LUMS" />
 </p>
 
 <p align="center">
@@ -23,14 +23,14 @@
 ```python
 class ObaidullahHassan:
     role     = "Sr. Machine Learning Engineer"
-    company  = "Ebryx"                # Lahore, PK
+    founder  = ["Klassifiers", "Contecify"]
     studying = "MSc Artificial Intelligence @ LUMS"
     stack    = ["LangGraph", "RAG", "PyTorch", "FastAPI"]
 
     def now(self):
         return [
-            "face-recognition attendance at scale",
-            "multi-camera person tracking pipelines",
+            "building AI-powered analytics @ Klassifiers",
+            "building product discovery @ Contecify",
         ]
 
     def shipped(self):
@@ -48,6 +48,8 @@ class ObaidullahHassan:
 
 | | |
 |:--|:--|
+| 🚀 | Co-Founder @ **Klassifiers** |
+| 💡 | Co-Founder @ **Contecify** |
 | 🧠 | **4+ yrs** shipping ML to production |
 | 👥 | Led **LLM/GenAI** & Deep Learning teams |
 | 🏥 | Healthcare AI · clinical governance |
@@ -164,15 +166,7 @@ class ObaidullahHassan:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidhsn&show_icons=true&hide_border=true&title_color=7C7CF8&icon_color=7C7CF8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github"/>
-  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidhsn&hide_border=true&background=0d1117&stroke=7C7CF8&ring=7C7CF8&fire=FF6F00&currStreakLabel=7C7CF8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=obaidhsn&bg_color=0d1117&color=c9d1d9&line=7C7CF8&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obaidhsn&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+  <img width="41%" src="https://streak-stats.demolab.com/?user=obaidhsn&hide_border=true&background=0d1117&stroke=7C7CF8&ring=7C7CF8&fire=FF6F00&currStreakLabel=7C7CF8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 </p>
 
 ---
